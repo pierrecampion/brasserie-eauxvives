@@ -1,0 +1,10 @@
+{% assign shops = site.data.shops | sort: 'name' %}
+
+<ul>
+{% for shop in shops %}
+  <li>
+    <strong>{{ shop.name }}</strong><br>
+    {{ shop.address }}
+  </li>
+{% endfor %}
+</ul>

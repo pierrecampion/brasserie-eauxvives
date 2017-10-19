@@ -1,0 +1,83 @@
+- name: Asteur Dinant
+  address: Rue Coster, 4 bte 11 - 5500 Dinant
+
+- name: Brasserie Bouty
+  address: Rue Bourgmestre Targez, 18 - 5600 Romedenne
+
+- name: Brasserie Balleux
+  address: Rue de Rochefort, 229-231 - 5570 Beauraing
+
+- name: Brasserie Delsart
+  address: Rue Georges Cosse, 16 - 5380 ZI Fernelemont
+
+- name: Café La Pharmacie
+  address: Rue Notre Dame, 62 - 5000 Namur
+
+- name: Castel les Sorbiers
+  address: Rue des sorbiers, 241 - 5543 Heer
+
+- name: Detry bistrot La Pharmacie
+  address: Rue Notre Dame, 62 - 5000 Namur
+
+- name: Drink Annevoie
+  address: Chaussée de Namur, 60 - 5537 Annevoie
+
+- name: Drink Bruyelle
+  address: Chaussée de Tournai, 114 - 7641 Bruyelle
+
+- name: Drink Debruyn
+  address: Rue Warissaet, 12 - 7830 BASSILY
+
+- name: Drink Delhaye Philippe
+  address: Rue Pottiez, 3 - 7604 Braffe
+
+- name: Drink Ermeton
+  address: Rue de la Molignée, 27 - 5644 Ermeton
+
+- name: Comptoir des Fagnes
+  address: Route de Charlemagne, 34 - 5660 Frasnes
+
+- name: Epicurien
+  address: Rue de Fombay, 2 - 5680 Romerée
+
+- name: Fred Boissons
+  address: Rue de l'Artisanat, 8 - 1400 Nivelles
+
+- name: Grain de Sel
+  address: Rue Albert 1, 30 - La Louvière
+
+- name: La Censière
+  address: Rue Martin Sandron, 155 - 5680 Doische
+
+- name: La Grelinette
+  address: Rue Ruisseau des Forges, 76 - 5620 Florennes
+
+- name: Le Marni
+  address: Rue de Vergnies, 25 - 1050 Bruxelles
+
+- name: Malting Pot
+  address: Rue Scarron, 50 - 1050 Bruxelles
+
+- name: Musée des bières de Lustin
+  address: 5170 Lustin
+
+- name: Office du tourisme Doische
+  address: Rue du Bois du Fir, 115 - 5680 Doische
+
+- name: Proxy Delhaize
+  address: Rue Martin Sandron, 90 - 5680 Doische
+
+- name: Plaisir du 604
+  address: Chaussée de Charleroi, 604 - 6220 Fleurus
+
+- name: Primevères
+  address: MChemin des Primeveres, 32 - 7800 Ath
+
+- name: SA Forges de Pernelle
+  address: Rue de Pernelle, 27 - 5660 Couvin
+
+- name: Sartia
+  address: Rue du Sartia, 9c - 5070 Sart Eustache
+
+- name: Vanderzwalmen
+  address: Rue de la gare, 30 - 5670 Treignes
