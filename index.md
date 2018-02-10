@@ -9,7 +9,7 @@ Notre MAM'ZELLE BIBICHE est une bière blonde qui titre environ 7°. Avec sa bel
 
 ## Informations
 
-La brasserie est ouverte le samedi de 14 à 18 h, le dimanche de 11 à 17 h ou sur rendez-vous les autres jours de la semaine. Vous êtes néanmoins devant la porte ? Il y a de la lumière ? Entrez ! Sinon, appelez le 0496/65.65
+La brasserie est ouverte le samedi de 14 à 18 h, le dimanche de 11 à 17 h ou sur rendez-vous les autres jours de la semaine. Vous êtes néanmoins devant la porte ? Il y a de la lumière ? Entrez ! Sinon, appelez le 0496/65.65.72, nous sommes en général dans les parages...
 
 ## Contact
 
