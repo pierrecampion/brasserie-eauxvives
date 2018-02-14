@@ -25,6 +25,6 @@ La brasserie est ouverte le samedi de 14 à 18 h, le dimanche de 11 à 17 h ou s
 
 ## Prochains évènements
 
-Dernier samedi de mai (26 mai 2018): Journée du livre (https://www.facebook.com/events/1691895317570393/permalink/1691895324237059/?notif_t=feedback_reaction_generic&notif_id=1518552782445166)
-Premier samedi d'aout (04 aout 2018):Cinéma en plein air GRATUIT sur la place de Romerée
-Premier WE de Septembre (1 et 2 septembre 2018): Journées Portes Ouvertes
+- Dernier samedi de mai (**26 mai 2018**): [Journée du livre](https://www.facebook.com/events/1691895317570393/permalink/1691895324237059/)
+- Premier samedi d'aout (**4 aout 2018**): Cinéma en plein air GRATUIT sur la place de Romerée
+- Premier WE de Septembre (**1 et 2 septembre 2018**): Journées Portes Ouvertes
